@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQLTools: Add New Connection",
+            "database": "Novamarket_S07.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
